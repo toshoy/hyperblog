@@ -11,7 +11,7 @@ Un blog increible para el curso de GIT y Github en platzi
 * El flujo de trabajo en Git
 * El verdadero amor por las buenas practicas
 * trucos del profesor
+*Incluye ejemplos de mac
 
 
-*Creado por César Augusto Rodríguez
 
