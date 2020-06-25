@@ -12,3 +12,6 @@ Un blog increible para el curso de GIT y Github en platzi
 * El verdadero amor por las buenas practicas
 * trucos del profesor
 
+
+*Creado por César Augusto Rodríguez
+
